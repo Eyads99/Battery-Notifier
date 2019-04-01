@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Battery Notification</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_text">App inactive</string>
+    <string name="channel">channel1</string>
+    <string name="channel_description">channel description</string>
+</resources>
